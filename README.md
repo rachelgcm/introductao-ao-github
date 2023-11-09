@@ -59,6 +59,13 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+# Etapas para gerenciar um projeto do GitHub
+**criar ou clonar repositorio**
+**criar um novo branch**
+**fazer e salvar as altereções nos arquivos**
+**executar o comando commit**
+**solicitar a mesclagem do código através do pull request**
+**realizar o merge do codigo através do pull request**
 <footer>
 
 <!--
